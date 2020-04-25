@@ -3,26 +3,23 @@ html, body, .container {
     height: 100%;
 }
 
+#clock-container, a {
+    font-size: 20px;
+    color: #e62e00;
+    font-weight: bold;
+}
+
+
+
 body {
-    background-image: url('./assets/coding-background.jpg');
+    background-image: url("sharon-mccutcheon-eMP4sYPJ9x0-unsplash.jpg");
     background-size: cover;
-    background-color: #9ed6e7;
+ 
 }
 
 h1 {
-    font-family: 'Dosis', sans-serif;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
-.border-bottom {
-    border-bottom: 1px solid #FFFFFF!important;
-}
 
-.border-top {
-    border-top: 1px solid #FFFFFF!important;
-}
-
-a {
-    color: #FFFFFF;
-    font-weight: bold;
-}
 
