@@ -9,20 +9,16 @@ When you click "Let's Begin" the quiz you will start and you will be asked 7 que
 Your initials and score are stored in local Storage and displayed on our scoreboard.
 
 
-Progams used;
+## Progams used;
 HTML, CSS, Javascript
 
-Files used:
-sharon-mccutcheon-eMP4sYPJ9x0-unsplash.jpg
-index1.html
-questions.js
-quiz.css
-quiz.js
+## Files used:
+sharon-mccutcheon-eMP4sYPJ9x0-unsplash.jpg, index1.html, questions.js, quiz.css, quiz.js
 
-Contributor:
+## Contributor:
 Sharon McCutcheon/ Unsplash
 
-Author:
+## Author:
 Diane Reeves
 
 Link to application
