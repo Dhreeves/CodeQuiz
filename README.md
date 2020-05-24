@@ -21,7 +21,6 @@ Sharon McCutcheon/ Unsplash
 ## Author:
 Diane Reeves
 
-Link to application
-https://dhreeves.github.io/CodeQuiz/
+
 
 
